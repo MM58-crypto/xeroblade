@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xeroblade&#39;s site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Xeroblade&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 28 Jun 2023 19:09:32 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts on Linux After 3 Years</title>
+      <link>http://example.org/posts/thoughts-on-linux-after-3-years/</link>
+      <pubDate>Wed, 28 Jun 2023 19:09:32 +0800</pubDate>
+      
+      <guid>http://example.org/posts/thoughts-on-linux-after-3-years/</guid>
+      <description>The beginning I have been using GNU/Linux for three years now and i wanted to share my thoughts after all this time. Like millions of others on this planet of ours, i was using windows as my primary Operating System. Every computer i have ever used had windows running on it, regardless if it was windows Xp, vista, 7, 10 or 11. As you can clearly tell, windows had complete dominance over the market.</description>
+    </item>
+    
+    <item>
+      <title>Is going to college to study software engineering worth it?</title>
+      <link>http://example.org/posts/cs_journey/</link>
+      <pubDate>Wed, 28 Jun 2023 17:49:49 +0800</pubDate>
+      
+      <guid>http://example.org/posts/cs_journey/</guid>
+      <description>Intro As i have mentioned in my about page, iam a (technically) software engineer graduate. I am genuinely grateful for the opportunity to attend college, as it has provided me with valuable lessons from both a technical and general life perspective. However, over the years, I have developed the opinion that formal education is not an absolute necessity for individuals aspiring to become software engineers. Unlike fields such as medicine or engineering, our work does not rely heavily on specialized equipment or lab facilities; a laptop alone is sufficient.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Wed, 28 Jun 2023 17:44:08 +0800</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Greetings! My name is MM and iam a Software Engineer (almost) graduate. My interest in computer science began during high school (or middle school can&amp;rsquo;t remember clearly) and i decided to pursue this field once i am done with high school. Other than the fact that i was born in a generation where we are surrounded by computers at almost all times, i had close friends who where deeply interested in this field.</description>
+    </item>
+    
+  </channel>
+</rss>

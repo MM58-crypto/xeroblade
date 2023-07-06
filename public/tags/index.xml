@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Xeroblade&#39;s site</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Xeroblade&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 28 Jun 2023 19:09:32 +0800</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>http://example.org/tags/linux/</link>
+      <pubDate>Wed, 28 Jun 2023 19:09:32 +0800</pubDate>
+      
+      <guid>http://example.org/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>http://example.org/tags/personal/</link>
+      <pubDate>Wed, 28 Jun 2023 19:09:32 +0800</pubDate>
+      
+      <guid>http://example.org/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://example.org/tags/software/</link>
+      <pubDate>Wed, 28 Jun 2023 19:09:32 +0800</pubDate>
+      
+      <guid>http://example.org/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://example.org/tags/about/</link>
+      <pubDate>Wed, 28 Jun 2023 17:44:08 +0800</pubDate>
+      
+      <guid>http://example.org/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>updates</title>
+      <link>http://example.org/tags/updates/</link>
+      <pubDate>Wed, 28 Jun 2023 17:44:08 +0800</pubDate>
+      
+      <guid>http://example.org/tags/updates/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
