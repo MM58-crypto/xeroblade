@@ -1,4 +1,4 @@
-baseURL =  'https://mm58-crypto.github.io/xeroblade-site/'
+baseURL = 'https://mm58-crypto.github.io/'
 languageCode = 'en-us'
 title = 'Xeroblade Site'
 theme        = "hello-friend-ng"
