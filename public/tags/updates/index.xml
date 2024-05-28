@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>updates on Xeroblade&#39;s site</title>
-    <link>http://example.org/tags/updates/</link>
-    <description>Recent content in updates on Xeroblade&#39;s site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 28 Jun 2023 17:44:08 +0800</lastBuildDate><atom:link href="http://example.org/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    <title>Updates on Xeroblade</title>
+    <link>http://localhost:1313/xeroblade-site/tags/updates/</link>
+    <description>Recent content in Updates on Xeroblade</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Jun 2023 17:44:08 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/xeroblade-site/tags/updates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>http://localhost:1313/xeroblade-site/about/</link>
       <pubDate>Wed, 28 Jun 2023 17:44:08 +0800</pubDate>
-      
-      <guid>http://example.org/about/</guid>
-      <description>Greetings! My name is MM and iam a Software Engineer (almost) graduate. My interest in computer science began during high school (or middle school can&amp;rsquo;t remember clearly) and i decided to pursue this field once i am done with high school. Other than the fact that i was born in a generation where we are surrounded by computers at almost all times, i had close friends who where deeply interested in this field.</description>
+      <guid>http://localhost:1313/xeroblade-site/about/</guid>
+      <description>Greetings All My name is MM and iam a Software Engineer graduate.&#xA;This website currently lacks a defined purpose. It can be viewed as a blog where I share my thoughts on various topics, primarily focusing on computer science but also delving into other areas. Additionally, I intend to provide posts addressing persistent errors or issues encountered in programming or OS-related matters&#xA;Unrelated Image of the day: </description>
     </item>
-    
   </channel>
 </rss>

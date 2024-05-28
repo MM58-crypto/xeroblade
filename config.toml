@@ -1,8 +1,8 @@
 baseURL = "https://mm58-crypto.github.io/xeroblade-site/"
 theme = "risotto"
-title = "risotto demo"
+title = "Xeroblade"
 author = "MM"
-copyright = "© 2021–2022 [Joe Roe](https://joeroe.io) & [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors)."
+#copyright = "© 2021–2022 [Joe Roe](https://joeroe.io) & [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors)."
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -22,8 +22,8 @@ palette = "base16-dark"
 
 # Sidebar: about/bio
 [params.about]
-title = "risotto"
-description = "A [hugo](https://gohugo.io) theme inspired by terminal ricing."
+title = "Xeroblade!"
+description = "My personal Website "
 logo = "images/rice.svg"
 
 # Sidebar: social links
@@ -34,17 +34,24 @@ logo = "images/rice.svg"
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/joeroe/risotto"
+url = "https://github.com/MM58-crypto"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
 title = "Email"
-url = "mailto:example@example.com"
+url = "mailto:mm587@protonmail.com"
 
 [[params.socialLinks]]
-icon = "ai ai-orcid"
-title = "ORCID"
-url = "https://orcid.org/0000-0001-2345-6789"
+icon = "fa-brands fa-telegram"
+title = "Telegram"
+url = "https://t.me/mm580"
+
+
+
+#[[params.socialLinks]]
+#icon = "ai ai-orcid"
+#title = "ORCID"
+#url = "https://orcid.org/0000-0001-2345-6789"
 
 [menu]
 
@@ -53,6 +60,13 @@ url = "https://orcid.org/0000-0001-2345-6789"
     name = "About"
     url = "/about/"
     weight = 10
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 10
+
 
 [taxonomies]
 category = "categories"
@@ -71,6 +85,11 @@ unsafe = true
     startLevel = 2
     endLevel   = 3
     ordered    = true
+
+  [markup.goldmark]
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = true
 
 [privacy]
 
@@ -98,3 +117,4 @@ unsafe = true
 
   [services.twitter]
     disableInlineCSS = true
+theme = 'lugo'

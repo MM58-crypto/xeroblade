@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head><script src="/xeroblade-site/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=xeroblade-site/livereload" data-no-instant defer></script><title>LLM Driven Translator &ndash; Xeroblade</title>
+<meta name="description" content="My personal Website ">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8"/>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" />
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.1/css/academicons.min.css" integrity="sha512-b1ASx0WHgVFL5ZQhTgiPWX+68KjS38Jk87jg7pe+qC7q9YkEtFq0z7xCglv7qGIs/68d3mAp+StfC8WKC5SSAg==" crossorigin="anonymous" />
+
+
+<link rel="stylesheet" href="http://localhost:1313/xeroblade-site/css/palettes/base16-dark.css">
+<link rel="stylesheet" href="http://localhost:1313/xeroblade-site/css/risotto.css">
+<link rel="stylesheet" href="http://localhost:1313/xeroblade-site/css/custom.css">
+</head>
+
+    <body>
+        <div class="page">
+
+            <header class="page__header"><nav class="page__nav main-nav">
+    <ul>
+    <h1 class="page__logo"><a href="http://localhost:1313/xeroblade-site/" class="page__logo-inner">Xeroblade</a></h1>
+    
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="http://localhost:1313/xeroblade-site/about/" title="">About</a></li>
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="http://localhost:1313/xeroblade-site/projects/" title="">Projects</a></li>
+    
+    <li class="main-nav__item"><a class="nav-main-item" href="http://localhost:1313/xeroblade-site/posts/" title="Posts">Posts</a></li>
+    
+    </ul>
+</nav>
+
+</header>
+
+            <section class="page__body">
+    <header class="content__header">
+        <h1>LLM Driven Translator</h1>
+    </header>
+    
+    <div class="content__body">
+        <p><a href="https://github.com/MM58-crypto/AI-Driven-translator">Github repo</a></p>
+<h2 id="demo">Demo</h2>
+<hr>
+<p>Translation tool that utilizes LLMs such as OpenAI to perform accurate translations.</p>
+<h2 id="features">Features</h2>
+<ul>
+<li>Speech-to-text translation enables users to upload audio files in various languages and convert the audio into translated text. (However, the current Whisper API supports translation from any language to English, but not the reverse.)</li>
+<li>Normal text translation: User can input english text and select a language from the list provided to convert english text into the translated text</li>
+</ul>
+<h2 id="built-with-frameworks">Built with (Frameworks)</h2>
+<ul>
+<li>Streamlit</li>
+<li>Langchain 🦜️🔗</li>
+</ul>
+<h2 id="prerequisites">Prerequisites</h2>
+<p>The following packages are required to run this app locally:</p>
+<ol>
+<li>Streamlit:</li>
+</ol>
+<pre tabindex="0"><code>pip install streamlit
+</code></pre><ol start="2">
+<li>OpenAI:</li>
+</ol>
+<pre tabindex="0"><code>pip install openai
+</code></pre><ol start="3">
+<li>Langchain:</li>
+</ol>
+<pre tabindex="0"><code>pip install langchain
+</code></pre><h2 id="installation">Installation</h2>
+<p>Follow the steps below to ensure that the project runs as intended locally:</p>
+<ol>
+<li>Clone the repo</li>
+</ol>
+<pre tabindex="0"><code>git clone https://github.com/MM58-crypto/AI-Driven-translator.git
+</code></pre><ol start="2">
+<li>Inside the project directory, create a virtual environment by running the following command:</li>
+</ol>
+<pre tabindex="0"><code>python -m venv your_virtual_environment_name (eg: env)
+</code></pre><ol start="3">
+<li>Activate your virtual environment:</li>
+</ol>
+<pre tabindex="0"><code>source env/bin/activate
+</code></pre><ol start="4">
+<li>
+<p>Install the required packages from the <a href="#prerequisites">Prerequisites</a> section</p>
+</li>
+<li>
+<p>Within the same directory, create a new file &ldquo;config.py&rdquo;</p>
+</li>
+<li>
+<p>Within the config.py file, paste your own OpenAI API key:</p>
+</li>
+</ol>
+<p>(can be obtained from openai.com, API keys &gt; + Create new secret key)</p>
+<pre tabindex="0"><code>OPENAI_API_KEY =&#34;YOUR_API_KEY&#34;
+</code></pre><ol start="7">
+<li>Run the app by using the following command in the terminal:</li>
+</ol>
+<pre tabindex="0"><code>streamlit run main.py
+</code></pre>
+    </div>
+    <footer class="content__footer"></footer>
+
+            </section>
+
+            <section class="page__aside">
+                <div class="aside__about">
+<div class="aside__about">
+    <img class="about__logo" src="http://localhost:1313/xeroblade-site/images/rice.svg" alt="Logo">
+<h1 class="about__title">Xeroblade!</h1>
+<p class="about__description">My personal Website</p>
+</div>
+
+
+<ul class="aside__social-links">
+    
+    <li>
+        <a href="https://github.com/MM58-crypto" rel="me" aria-label="GitHub" title="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+    <li>
+        <a href="mailto:mm587@protonmail.com" rel="me" aria-label="Email" title="Email"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+    <li>
+        <a href="https://t.me/mm580" rel="me" aria-label="Telegram" title="Telegram"><i class="fa-brands fa-telegram" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+</ul>
+</div>
+                <hr>
+                <div class="aside__content">
+    
+    
+        <p>
+            
+            2024-05-28
+        </p>
+    
+
+    
+
+                </div>
+            </section>
+
+            <footer class="page__footer"><p>
+    
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+    
+    
+      
+      
+          
+            
+            
+                <br/><span class="active">$ echo $LANG<br/><b></b></span><br/>
+
+            
+          
+      
+    
+</p>
+<br /><br />
+<p class="copyright"></p>
+<p class="advertisement">Powered by <a href="https://gohugo.io/">hugo</a> and <a href="https://github.com/joeroe/risotto">risotto</a>.</p>
+</footer>
+
+        </div>
+    </body>
+
+</html>

@@ -2,41 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/tags/linux/</loc>
+    <loc>http://localhost:1313/xeroblade-site/projects/pddes/</loc>
+    <lastmod>2024-05-28T19:40:49+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/xeroblade-site/projects/</loc>
+    <lastmod>2024-05-28T19:40:49+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/xeroblade-site/</loc>
+    <lastmod>2024-05-28T19:40:49+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/xeroblade-site/projects/csbytes/</loc>
+    <lastmod>2024-05-28T17:27:51+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/xeroblade-site/projects/ai-driven-translator/</loc>
+    <lastmod>2024-05-28T17:18:17+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/xeroblade-site/posts/first-post/</loc>
+    <lastmod>2023-07-05T18:01:03+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/xeroblade-site/posts/</loc>
+    <lastmod>2023-07-05T18:01:03+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/xeroblade-site/tags/</loc>
+    <lastmod>2023-07-05T18:01:03+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/xeroblade-site/tags/untagged/</loc>
+    <lastmod>2023-07-05T18:01:03+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/xeroblade-site/tags/linux/</loc>
     <lastmod>2023-06-28T19:09:32+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/personal/</loc>
+    <loc>http://localhost:1313/xeroblade-site/tags/personal/</loc>
     <lastmod>2023-06-28T19:09:32+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://localhost:1313/xeroblade-site/tags/software/</loc>
     <lastmod>2023-06-28T19:09:32+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/software/</loc>
+    <loc>http://localhost:1313/xeroblade-site/posts/thoughts-on-linux-after-3-years/</loc>
     <lastmod>2023-06-28T19:09:32+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2023-06-28T19:09:32+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/thoughts-on-linux-after-3-years/</loc>
-    <lastmod>2023-06-28T19:09:32+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2023-06-28T19:09:32+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/cs_journey/</loc>
+    <loc>http://localhost:1313/xeroblade-site/posts/cs_journey/</loc>
     <lastmod>2023-06-28T17:49:49+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/about/</loc>
+    <loc>http://localhost:1313/xeroblade-site/tags/about/</loc>
     <lastmod>2023-06-28T17:44:08+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://localhost:1313/xeroblade-site/about/</loc>
     <lastmod>2023-06-28T17:44:08+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/updates/</loc>
+    <loc>http://localhost:1313/xeroblade-site/tags/updates/</loc>
     <lastmod>2023-06-28T17:44:08+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>http://localhost:1313/xeroblade-site/categories/</loc>
   </url><url>
-    <loc>http://example.org/series/</loc>
+    <loc>http://localhost:1313/xeroblade-site/series/</loc>
   </url>
 </urlset>

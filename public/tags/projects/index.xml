@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Xeroblade</title>
+    <link>http://localhost:1313/xeroblade-site/tags/projects/</link>
+    <description>Recent content in Projects on Xeroblade</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 Jun 2023 17:49:49 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/xeroblade-site/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLM Driven Translator</title>
+      <link>http://localhost:1313/xeroblade-site/projects/ai-driven-translator/</link>
+      <pubDate>Wed, 28 Jun 2023 17:49:49 +0800</pubDate>
+      <guid>http://localhost:1313/xeroblade-site/projects/ai-driven-translator/</guid>
+      <description>AI-Driven-translator Translation tool that utilizes LLMs such as OpenAI to perform accurate translations.&#xA;Features Speech-to-text translation enables users to upload audio files in various languages and convert the audio into translated text. (However, the current Whisper API supports translation from any language to English, but not the reverse.) Normal text translation: User can input english text and select a language from the list provided to convert english text into the translated text Built with (Frameworks) Streamlit Langchain 🦜️🔗 Prerequisites The following packages are required to run this app locally:</description>
+    </item>
+  </channel>
+</rss>
