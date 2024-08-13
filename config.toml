@@ -1,4 +1,4 @@
-baseURL = "https://mm58-crypto.github.io/xeroblade-site/"
+baseURL = "https://mm-swe.netlify.app/"
 theme = "risotto"
 title = "Xeroblade"
 author = "MM"
