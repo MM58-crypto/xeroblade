@@ -6,56 +6,7 @@
     <description>Recent content on Xeroblade</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 May 2024 19:40:49 +0300</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/xeroblade-site/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pddes</title>
-      <link>http://localhost:1313/xeroblade-site/projects/pddes/</link>
-      <pubDate>Tue, 28 May 2024 19:40:49 +0300</pubDate>
-      <guid>http://localhost:1313/xeroblade-site/projects/pddes/</guid>
-      <description>Github repo&#xA;Psychlogical Disorders Diagnosis Expert System (Final Year Project)&#xA;Brief description: A comprehensive expert system designed to assist in the assessment of psychological disorders. This system utilizes a knowledge base and user responses to generate appropriate conclusions. It caters to both mental health professionals and general users. Additionally, it benefits individuals who may face financial constraints or lack access to nearby mental health clinics. The diagnostic questions employed in the system adhere to the criteria outlined in the DSM (Diagnostic and Statistical Manual of Mental Disorders)</description>
-    </item>
-    <item>
-      <title>CSBytes</title>
-      <link>http://localhost:1313/xeroblade-site/projects/csbytes/</link>
-      <pubDate>Tue, 28 May 2024 17:27:51 +0300</pubDate>
-      <guid>http://localhost:1313/xeroblade-site/projects/csbytes/</guid>
-      <description>Github repo&#xA;Demo CSBytes: Cheat Sheet Generator CSBytes is designed to generate cheat sheets based on user preferences and selections, whether it&amp;rsquo;s for a programming language or a particular computer science topic. Powered by the advanced Gemini API, CSBytes delivers concise and tailored cheat sheets that users can easily download as PDF files. The application provides a user-friendly interface for seamless navigation and efficient cheat sheet generation.&#xA;Features Genre-Based Suggestions: Users can select specific programming languages or CS topics.</description>
-    </item>
-    <item>
-      <title>LLM Driven Translator</title>
-      <link>http://localhost:1313/xeroblade-site/projects/ai-driven-translator/</link>
-      <pubDate>Tue, 28 May 2024 17:18:17 +0300</pubDate>
-      <guid>http://localhost:1313/xeroblade-site/projects/ai-driven-translator/</guid>
-      <description>Github repo&#xA;Demo Translation tool that utilizes LLMs such as OpenAI to perform accurate translations.&#xA;Features Speech-to-text translation enables users to upload audio files in various languages and convert the audio into translated text. (However, the current Whisper API supports translation from any language to English, but not the reverse.) Normal text translation: User can input english text and select a language from the list provided to convert english text into the translated text Built with (Frameworks) Streamlit Langchain 🦜️🔗 Prerequisites The following packages are required to run this app locally:</description>
-    </item>
-    <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/xeroblade-site/posts/first-post/</link>
-      <pubDate>Wed, 05 Jul 2023 18:01:03 +0800</pubDate>
-      <guid>http://localhost:1313/xeroblade-site/posts/first-post/</guid>
-      <description>Greetings, this is the first post</description>
-    </item>
-    <item>
-      <title>Thoughts on Linux After 3 Years</title>
-      <link>http://localhost:1313/xeroblade-site/posts/thoughts-on-linux-after-3-years/</link>
-      <pubDate>Wed, 28 Jun 2023 19:09:32 +0800</pubDate>
-      <guid>http://localhost:1313/xeroblade-site/posts/thoughts-on-linux-after-3-years/</guid>
-      <description>The beginning I have been using GNU/Linux for three years now and i wanted to share my thoughts after all this time. Like millions of others on this planet of ours, i was using windows as my primary Operating System. Every computer i have ever used had windows running on it, regardless if it was windows Xp, vista, 7, 10 or 11. As you can clearly tell, windows had complete dominance over the market.</description>
-    </item>
-    <item>
-      <title>Is going to college to study software engineering worth it?</title>
-      <link>http://localhost:1313/xeroblade-site/posts/cs_journey/</link>
-      <pubDate>Wed, 28 Jun 2023 17:49:49 +0800</pubDate>
-      <guid>http://localhost:1313/xeroblade-site/posts/cs_journey/</guid>
-      <description>Intro As i have mentioned in my about page, iam a (technically) software engineer graduate. I am genuinely grateful for the opportunity to attend college, as it has provided me with valuable lessons from both a technical and general life perspective. However, over the years, I have developed the opinion that formal education is not an absolute necessity for individuals aspiring to become software engineers. Unlike fields such as medicine or engineering, our work does not rely heavily on specialized equipment or lab facilities; a laptop alone is sufficient.</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/xeroblade-site/about/</link>
-      <pubDate>Wed, 28 Jun 2023 17:44:08 +0800</pubDate>
-      <guid>http://localhost:1313/xeroblade-site/about/</guid>
-      <description>Greetings All My name is MM and iam a Software Engineer graduate.&#xA;This website currently lacks a defined purpose. It can be viewed as a blog where I share my thoughts on various topics, primarily focusing on computer science but also delving into other areas. Additionally, I intend to provide posts addressing persistent errors or issues encountered in programming or OS-related matters&#xA;Unrelated Image of the day: </description>
-    </item>
   </channel>
 </rss>

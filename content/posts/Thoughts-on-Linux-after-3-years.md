@@ -38,9 +38,6 @@ It is also a quicker way for developers to manage their projects (by using a tex
 
 I may have included a *bit* of unnecessary details in the sections above but basically iam glad that i stumbled upon linux and benefited alot from using it. I would recommend anyone to giving it a try, you can use a virtual machine if you dont wanna mess up your disk partitions. Then you can transit to dual booting or completely removing windows from your life :O. This page is actually quite general i did not dive into specifics when it comes to the terminal or some of the benefits. You can think of it as a page that somewhat introduces linux and why you should use it.
 
-I use arch btw!
-
-![specs](/pfetch.png)
 
 
 

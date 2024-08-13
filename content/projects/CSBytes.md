@@ -5,9 +5,12 @@ date: 2024-05-28T17:27:51+03:00
 ---
 [Github 
 repo](https://github.com/MM58-crypto/CSBytes)
-## Demo
 
+[Try it out!](https://csbytes.streamlit.app/)
 # CSBytes: Cheat Sheet Generator
+()
+
+![CS gen UI](/cs_gen.png)
 
 CSBytes is designed to generate cheat sheets based on user preferences and selections, whether it's for a programming language or a particular computer science topic. Powered by the advanced Gemini API, CSBytes delivers concise and tailored cheat sheets that users can easily download as PDF files. The application provides a user-friendly interface for seamless navigation and efficient cheat sheet generation.
 

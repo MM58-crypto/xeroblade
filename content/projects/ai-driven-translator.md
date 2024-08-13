@@ -4,8 +4,11 @@ date: 2024-05-28T17:18:17+03:00
 #draft: true
 ---
 [Github repo](https://github.com/MM58-crypto/AI-Driven-translator) 
-## Demo
----
+
+
+![UI](/ai-driven-translator.png)
+
+## Brief description:
 Translation tool that utilizes LLMs such as OpenAI to perform accurate translations. 
 
 ## Features

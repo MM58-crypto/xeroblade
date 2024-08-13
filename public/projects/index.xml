@@ -20,14 +20,14 @@
       <link>http://localhost:1313/xeroblade-site/projects/csbytes/</link>
       <pubDate>Tue, 28 May 2024 17:27:51 +0300</pubDate>
       <guid>http://localhost:1313/xeroblade-site/projects/csbytes/</guid>
-      <description>Github repo&#xA;Demo CSBytes: Cheat Sheet Generator CSBytes is designed to generate cheat sheets based on user preferences and selections, whether it&amp;rsquo;s for a programming language or a particular computer science topic. Powered by the advanced Gemini API, CSBytes delivers concise and tailored cheat sheets that users can easily download as PDF files. The application provides a user-friendly interface for seamless navigation and efficient cheat sheet generation.&#xA;Features Genre-Based Suggestions: Users can select specific programming languages or CS topics.</description>
+      <description>Github repo&#xA;Try it out!&#xA;CSBytes: Cheat Sheet Generator ()&#xA;CSBytes is designed to generate cheat sheets based on user preferences and selections, whether it&amp;rsquo;s for a programming language or a particular computer science topic. Powered by the advanced Gemini API, CSBytes delivers concise and tailored cheat sheets that users can easily download as PDF files. The application provides a user-friendly interface for seamless navigation and efficient cheat sheet generation.</description>
     </item>
     <item>
       <title>LLM Driven Translator</title>
       <link>http://localhost:1313/xeroblade-site/projects/ai-driven-translator/</link>
       <pubDate>Tue, 28 May 2024 17:18:17 +0300</pubDate>
       <guid>http://localhost:1313/xeroblade-site/projects/ai-driven-translator/</guid>
-      <description>Github repo&#xA;Demo Translation tool that utilizes LLMs such as OpenAI to perform accurate translations.&#xA;Features Speech-to-text translation enables users to upload audio files in various languages and convert the audio into translated text. (However, the current Whisper API supports translation from any language to English, but not the reverse.) Normal text translation: User can input english text and select a language from the list provided to convert english text into the translated text Built with (Frameworks) Streamlit Langchain 🦜️🔗 Prerequisites The following packages are required to run this app locally:</description>
+      <description>Github repo&#xA;Brief description: Translation tool that utilizes LLMs such as OpenAI to perform accurate translations.&#xA;Features Speech-to-text translation enables users to upload audio files in various languages and convert the audio into translated text. (However, the current Whisper API supports translation from any language to English, but not the reverse.) Normal text translation: User can input english text and select a language from the list provided to convert english text into the translated text Built with (Frameworks) Streamlit Langchain 🦜️🔗 Prerequisites The following packages are required to run this app locally:</description>
     </item>
   </channel>
 </rss>
