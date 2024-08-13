@@ -124,4 +124,3 @@ unsafe = true
 
   [services.twitter]
     disableInlineCSS = true
-theme = 'lugo'
