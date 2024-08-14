@@ -13,3 +13,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "risotto"]
+	path = risotto
+	url = https://github.com/joeroe/risotto
