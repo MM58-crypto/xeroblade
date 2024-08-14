@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Updates on Xeroblade</title>
-    <link>http://localhost:1313/xeroblade-site/tags/updates/</link>
+    <link>http://localhost:1313/tags/updates/</link>
     <description>Recent content in Updates on Xeroblade</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 28 Jun 2023 17:44:08 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/xeroblade-site/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/updates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/xeroblade-site/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 28 Jun 2023 17:44:08 +0800</pubDate>
-      <guid>http://localhost:1313/xeroblade-site/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>ٱلسَّلَامُ عَلَيْكُمْ | Greetings | あいさつ | Grüße&#xA;My name is MM and iam a Junior Software Engineer.&#xA;This website currently lacks a defined purpose. It can be viewed as a blog where I primarily focus on computer science but can also delve into other areas. Additionally, I intend to provide posts addressing persistent errors or issues encountered in programming or OS-related matters&#xA;BTW I use arch! Unrelated Image of the day: </description>
     </item>
   </channel>

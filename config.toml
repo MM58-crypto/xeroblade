@@ -58,19 +58,19 @@ url = "https://t.me/mm580"
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "https://mm-swe.netlify.app/about/"
+    url = "/about/"
     weight = 10
 
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
-    url = "https://mm-swe.netlify.app/projects/"
+    url = "/projects/"
     weight = 10
   
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
-    url = "https://mm-swe.netlify.app/posts/"
+    url = "/posts/"
     weight = 10
 
 

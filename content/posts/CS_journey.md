@@ -1,7 +1,7 @@
 ---
 title: "Is going to college to study software engineering worth it?"
 date: 2023-06-28T17:49:49+08:00
-url: '/posts/cs_journey/'
+#url: '/posts/cs_journey/'
 tags: ['personal']
 #draft: true
 ---

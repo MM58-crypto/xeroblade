@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Untagged on Xeroblade</title>
-    <link>http://localhost:1313/xeroblade-site/tags/untagged/</link>
+    <link>http://localhost:1313/tags/untagged/</link>
     <description>Recent content in Untagged on Xeroblade</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 05 Jul 2023 18:01:03 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/xeroblade-site/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/xeroblade-site/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Wed, 05 Jul 2023 18:01:03 +0800</pubDate>
-      <guid>http://localhost:1313/xeroblade-site/posts/first-post/</guid>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description>Greetings, this is the first post</description>
     </item>
   </channel>

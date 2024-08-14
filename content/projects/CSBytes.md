@@ -1,7 +1,7 @@
 ---
 title: "CSBytes"
 date: 2024-05-28T17:27:51+03:00
-url: '/projects/csbytes/'
+#url: '/projects/csbytes/'
 #draft: true
 ---
 [Github 

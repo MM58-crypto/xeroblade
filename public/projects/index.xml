@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Xeroblade</title>
-    <link>http://localhost:1313/xeroblade-site/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Xeroblade</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 28 May 2024 19:40:49 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/xeroblade-site/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pddes</title>
-      <link>http://localhost:1313/xeroblade-site/projects/pddes/</link>
+      <link>http://localhost:1313/projects/pddes/</link>
       <pubDate>Tue, 28 May 2024 19:40:49 +0300</pubDate>
-      <guid>http://localhost:1313/xeroblade-site/projects/pddes/</guid>
+      <guid>http://localhost:1313/projects/pddes/</guid>
       <description>Github repo&#xA;Psychlogical Disorders Diagnosis Expert System (Final Year Project)&#xA;Brief description: A comprehensive expert system designed to assist in the assessment of psychological disorders. This system utilizes a knowledge base and user responses to generate appropriate conclusions. It caters to both mental health professionals and general users. Additionally, it benefits individuals who may face financial constraints or lack access to nearby mental health clinics. The diagnostic questions employed in the system adhere to the criteria outlined in the DSM (Diagnostic and Statistical Manual of Mental Disorders)</description>
     </item>
     <item>
       <title>CSBytes</title>
-      <link>http://localhost:1313/xeroblade-site/projects/csbytes/</link>
+      <link>http://localhost:1313/projects/csbytes/</link>
       <pubDate>Tue, 28 May 2024 17:27:51 +0300</pubDate>
-      <guid>http://localhost:1313/xeroblade-site/projects/csbytes/</guid>
+      <guid>http://localhost:1313/projects/csbytes/</guid>
       <description>Github repo&#xA;Try it out!&#xA;CSBytes: Cheat Sheet Generator ()&#xA;CSBytes is designed to generate cheat sheets based on user preferences and selections, whether it&amp;rsquo;s for a programming language or a particular computer science topic. Powered by the advanced Gemini API, CSBytes delivers concise and tailored cheat sheets that users can easily download as PDF files. The application provides a user-friendly interface for seamless navigation and efficient cheat sheet generation.</description>
     </item>
     <item>
       <title>LLM Driven Translator</title>
-      <link>http://localhost:1313/xeroblade-site/projects/ai-driven-translator/</link>
+      <link>http://localhost:1313/projects/ai-driven-translator/</link>
       <pubDate>Tue, 28 May 2024 17:18:17 +0300</pubDate>
-      <guid>http://localhost:1313/xeroblade-site/projects/ai-driven-translator/</guid>
+      <guid>http://localhost:1313/projects/ai-driven-translator/</guid>
       <description>Github repo&#xA;Brief description: Translation tool that utilizes LLMs such as OpenAI to perform accurate translations.&#xA;Features Speech-to-text translation enables users to upload audio files in various languages and convert the audio into translated text. (However, the current Whisper API supports translation from any language to English, but not the reverse.) Normal text translation: User can input english text and select a language from the list provided to convert english text into the translated text Built with (Frameworks) Streamlit Langchain 🦜️🔗 Prerequisites The following packages are required to run this app locally:</description>
     </item>
   </channel>

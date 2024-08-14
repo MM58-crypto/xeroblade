@@ -1,7 +1,7 @@
 ---
 title: "Pddes"
 date: 2024-05-28T19:40:49+03:00
-url: '/projects/pddes/'
+#url: '/projects/pddes/'
 #draft: true
 ---
 [Github repo](https://github.com/MM58-crypto/PDDES)

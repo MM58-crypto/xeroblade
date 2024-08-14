@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on Linux After 3 Years"
 date: 2023-06-28T19:09:32+08:00
-url: '/posts/thoughts-on-linux-after-3-years/'
+#url: '/posts/thoughts-on-linux-after-3-years/'
 tags: ['Linux', 'Software', 'personal']
 #draft: true
 ---

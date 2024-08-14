@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal on Xeroblade</title>
-    <link>http://localhost:1313/xeroblade-site/tags/personal/</link>
+    <link>http://localhost:1313/tags/personal/</link>
     <description>Recent content in Personal on Xeroblade</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 28 Jun 2023 19:09:32 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/xeroblade-site/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thoughts on Linux After 3 Years</title>
-      <link>http://localhost:1313/xeroblade-site/posts/thoughts-on-linux-after-3-years/</link>
+      <link>http://localhost:1313/posts/thoughts-on-linux-after-3-years/</link>
       <pubDate>Wed, 28 Jun 2023 19:09:32 +0800</pubDate>
-      <guid>http://localhost:1313/xeroblade-site/posts/thoughts-on-linux-after-3-years/</guid>
+      <guid>http://localhost:1313/posts/thoughts-on-linux-after-3-years/</guid>
       <description>The beginning I have been using GNU/Linux for three years now and i wanted to share my thoughts after all this time. Like millions of others on this planet of ours, i was using windows as my primary Operating System. Every computer i have ever used had windows running on it, regardless if it was windows Xp, vista, 7, 10 or 11. As you can clearly tell, windows had complete dominance over the market.</description>
     </item>
     <item>
       <title>Is going to college to study software engineering worth it?</title>
-      <link>http://localhost:1313/xeroblade-site/posts/cs_journey/</link>
+      <link>http://localhost:1313/posts/cs_journey/</link>
       <pubDate>Wed, 28 Jun 2023 17:49:49 +0800</pubDate>
-      <guid>http://localhost:1313/xeroblade-site/posts/cs_journey/</guid>
+      <guid>http://localhost:1313/posts/cs_journey/</guid>
       <description>Intro As i have mentioned in my about page, iam a (technically) software engineer graduate. I am genuinely grateful for the opportunity to attend college, as it has provided me with valuable lessons from both a technical and general life perspective. However, over the years, I have developed the opinion that formal education is not an absolute necessity for individuals aspiring to become software engineers. Unlike fields such as medicine or engineering, our work does not rely heavily on specialized equipment or lab facilities; a laptop alone is sufficient.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/xeroblade-site/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 28 Jun 2023 17:44:08 +0800</pubDate>
-      <guid>http://localhost:1313/xeroblade-site/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>ٱلسَّلَامُ عَلَيْكُمْ | Greetings | あいさつ | Grüße&#xA;My name is MM and iam a Junior Software Engineer.&#xA;This website currently lacks a defined purpose. It can be viewed as a blog where I primarily focus on computer science but can also delve into other areas. Additionally, I intend to provide posts addressing persistent errors or issues encountered in programming or OS-related matters&#xA;BTW I use arch! Unrelated Image of the day: </description>
     </item>
   </channel>
