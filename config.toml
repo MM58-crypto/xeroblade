@@ -1,5 +1,5 @@
 baseURL = "https://mm-swe.netlify.app/"
-#theme = "risotto"
+theme = "risotto"
 title = "Xeroblade"
 author = "MM"
 #copyright = "© 2021–2022 [Joe Roe](https://joeroe.io) & [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors)."

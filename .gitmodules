@@ -9,7 +9,7 @@
 	url = https://github.com/Track3/hermit.git
 [submodule "themes/risotto"]
 	path = themes/risotto
-	url = https://github.com/joeroe/risotto.git
+	url = https://github.com/joeroe/risotto
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
