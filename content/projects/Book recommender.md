@@ -20,7 +20,6 @@ This simple book recommender webapp is designed to provide personalized book sug
 
 ## Built with (Frameworks)
 - Streamlit  
-- Langchain 🦜️🔗
 
 
 ## Prerequisites
@@ -33,10 +32,7 @@ pip install streamlit
 ```
 pip install openai
 ```
-3. Langchain:
-```
-pip install langchain
-```
+
 ## Installation
 Follow the steps below to ensure that the project runs as intended locally:
 
