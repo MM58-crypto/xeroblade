@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/projects/book-recommender/</loc>
+    <lastmod>2024-08-25T19:25:31+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2024-08-25T19:25:31+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-08-20T18:53:36+03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-14T21:27:49+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/pddes/</loc>
-    <lastmod>2024-05-28T19:40:49+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-28T19:40:49+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/csbytes/</loc>
@@ -18,9 +24,6 @@
     <lastmod>2024-05-28T17:18:17+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/first-post/</loc>
-    <lastmod>2023-07-05T18:01:03+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-07-05T18:01:03+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
